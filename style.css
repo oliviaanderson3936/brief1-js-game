@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Chelsea Market', cursive;
+}
+
+header {
+    background: #ffffff;
+    color: #12194A;
+    text-align: center;
+    padding: 20px;
+}
+
+body {
+    background: #F3CC64;
+}
+
+#statement {
+    font-size: 20px;
+    color: #B12228;
+    text-align: center;
+}
+
+.icons {
+    margin: 30px 0;
+    text-align: center;
+}
+
+.icon {
+    padding: 30px;
+    display: inline-block;
+    border: #F3CC64 2px solid;
+    border-radius: 50%;
+}
+
+.icon:hover {
+    cursor: pointer;
+    background-color: #393e8f;
+    transition-duration: 0.3s;
+}
